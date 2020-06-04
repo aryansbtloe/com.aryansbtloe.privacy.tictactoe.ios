@@ -1,6 +1,6 @@
 Privacy Policy
 
-Your privacy is important to us. It is Template's policy to respect your privacy regarding any information we may collect from you through our app, Template.
+Your privacy is important to us. It is Tic Tac Toe : Time Pass's policy to respect your privacy regarding any information we may collect from you through our app, Tic Tac Toe : Time Pass.
 
 We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We also let you know why we’re collecting it and how it will be used.
 
@@ -22,11 +22,11 @@ This policy is effective as of 19 April 2020.
 
 
 
-Template Terms of Service
+Tic Tac Toe : Time Pass Terms of Service
 
 1. Terms
 
-By accessing our app, Template, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing Template. The materials contained in Template are protected by applicable copyright and trademark law.
+By accessing our app, Tic Tac Toe : Time Pass, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing Tic Tac Toe : Time Pass. The materials contained in Tic Tac Toe : Time Pass are protected by applicable copyright and trademark law.
 
 
 
@@ -36,7 +36,7 @@ By accessing our app, Template, you are agreeing to be bound by these terms of s
 
 
 
-Permission is granted to temporarily download one copy of Template per device for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
+Permission is granted to temporarily download one copy of Tic Tac Toe : Time Pass per device for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
 
 
 
@@ -44,7 +44,7 @@ modify or copy the materials;
 
 use the materials for any commercial purpose, or for any public display (commercial or non-commercial);
 
-attempt to decompile or reverse engineer any software contained in Template;
+attempt to decompile or reverse engineer any software contained in Tic Tac Toe : Time Pass;
 
 remove any copyright or other proprietary notations from the materials; or
 
@@ -54,7 +54,7 @@ transfer the materials to another person or "mirror" the materials on any other 
 
 
 
-This license shall automatically terminate if you violate any of these restrictions and may be terminated by Template at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.
+This license shall automatically terminate if you violate any of these restrictions and may be terminated by Tic Tac Toe : Time Pass at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.
 
 
 
@@ -62,33 +62,33 @@ This license shall automatically terminate if you violate any of these restricti
 
 
 
-The materials within Template are provided on an 'as is' basis. Template makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
+The materials within Tic Tac Toe : Time Pass are provided on an 'as is' basis. Tic Tac Toe : Time Pass makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
 
-Further, Template does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to Template.
+Further, Tic Tac Toe : Time Pass does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to Tic Tac Toe : Time Pass.
 
 
 
 4. Limitations
 
-In no event shall Template or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use Template, even if Template or a Template authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
+In no event shall Tic Tac Toe : Time Pass or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use Tic Tac Toe : Time Pass, even if Tic Tac Toe : Time Pass or a Tic Tac Toe : Time Pass authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
 
 
 
 5. Accuracy of materials
 
-The materials appearing in Template could include technical, typographical, or photographic errors. Template does not warrant that any of the materials on Template are accurate, complete or current. Template may make changes to the materials contained in Template at any time without notice. However Template does not make any commitment to update the materials.
+The materials appearing in Tic Tac Toe : Time Pass could include technical, typographical, or photographic errors. Tic Tac Toe : Time Pass does not warrant that any of the materials on Tic Tac Toe : Time Pass are accurate, complete or current. Tic Tac Toe : Time Pass may make changes to the materials contained in Tic Tac Toe : Time Pass at any time without notice. However Tic Tac Toe : Time Pass does not make any commitment to update the materials.
 
 
 
 6. Links
 
-Template has not reviewed all of the sites linked to its app and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by Template of the site. Use of any such linked website is at the user's own risk.
+Tic Tac Toe : Time Pass has not reviewed all of the sites linked to its app and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by Tic Tac Toe : Time Pass of the site. Use of any such linked website is at the user's own risk.
 
 
 
 7. Modifications
 
-Template may revise these terms of service for its app at any time without notice. By using Template you are agreeing to be bound by the then current version of these terms of service.
+Tic Tac Toe : Time Pass may revise these terms of service for its app at any time without notice. By using Tic Tac Toe : Time Pass you are agreeing to be bound by the then current version of these terms of service.
 
 
 
